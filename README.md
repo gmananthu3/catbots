@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="BASILSER" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JACK FF" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -29,11 +29,11 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/mohammed_basil_12?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://www.instagram.com/p/COXuRyUniU1/?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCU5ZnSCVsUlNJBVkIoBfOWw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/HAsslD92M0DC3GWL3XR55c" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
    
 ## Setup
